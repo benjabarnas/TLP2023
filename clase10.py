@@ -1,0 +1,5 @@
+numx=int(input("ingrese un valor para x"))
+numy=int(input("ingrese un valor para y"))
+print("el punto es ")
+print(numx)
+print(numy)
